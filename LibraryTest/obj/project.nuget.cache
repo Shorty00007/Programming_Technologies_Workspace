@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "sDKxtpLfZT/yCrGmP1ttxvD25xgMEo8TX+1uy/eLbAsOhMW/TmPtTjcrvridgHPdjc/9Jyi2K34P94iPW06veQ==",
+  "dgSpecHash": "MmaCNpdaLDA/e0qK67+EEOlF9LHhqAn+8JDbIykH7M3RmovqGigAwzUHt8UyzUNzaPCfup0OeY2HUOhaBzTBBw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Admin\\Desktop\\Nowy folder\\LibraryTest\\LibraryTest.csproj",
+  "projectFilePath": "C:\\Users\\Admin\\Documents\\GitHub\\Programming_Technologies_Workspace\\LibraryTest\\LibraryTest.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Admin\\.nuget\\packages\\coverlet.collector\\3.1.2\\coverlet.collector.3.1.2.nupkg.sha512",
     "C:\\Users\\Admin\\.nuget\\packages\\microsoft.codecoverage\\17.3.2\\microsoft.codecoverage.17.3.2.nupkg.sha512",
