@@ -8,6 +8,7 @@ namespace LibraryTest
     {
         private ILibraryService _libraryService;
         private DataServiceFactory _factory;
+        private DataService kanapka;
 
         [SetUp]
         public void SetUp()

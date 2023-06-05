@@ -3959,8 +3959,8 @@
     },
     "task2/1.0.0": {
       "type": "project",
-      "path": "../task2/task2.csproj",
-      "msbuildProject": "../task2/task2.csproj"
+      "path": "../task1/task2.csproj",
+      "msbuildProject": "../task1/task2.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -4005,6 +4005,9 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
+            "C:\\Users\\Admin\\Documents\\GitHub\\Programming_Technologies_Workspace\\task1\\task2.csproj": {
+              "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Programming_Technologies_Workspace\\task1\\task2.csproj"
+            },
             "C:\\Users\\Admin\\Documents\\GitHub\\Programming_Technologies_Workspace\\task2\\task2.csproj": {
               "projectPath": "C:\\Users\\Admin\\Documents\\GitHub\\Programming_Technologies_Workspace\\task2\\task2.csproj"
             }

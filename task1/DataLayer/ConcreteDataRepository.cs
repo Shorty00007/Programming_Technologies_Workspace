@@ -1,9 +1,10 @@
 ﻿using System;
 using System.Collections.Generic;
 using System.Linq;
+
 namespace DataLayer
 {
-    public class ConcreteDataRepository : IDataRepository
+    internal class ConcreteDataRepository : IDataRepository
     {
         private readonly Library _dataContext = new Library();
 
